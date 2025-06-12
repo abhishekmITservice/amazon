@@ -1,1 +1,6 @@
-hi hello world
+<<<<<<< HEAD
+
+=======
+hi
+hello world
+>>>>>>> 2c4b99a (modified)
