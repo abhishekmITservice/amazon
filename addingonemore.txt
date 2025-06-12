@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 hi
 hello world
 >>>>>>> 2c4b99a (modified)
+=======
+hi hello world
+hellooooo
+>>>>>>> 51707ead358219c1702dd2669b64f5e69a1cc92c
